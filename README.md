@@ -7,4 +7,4 @@ python index.py
 ```
 
 The script will detect your facial emotion and show a emoji on the canvas that fits your emotion.
-![Sample Image]https://github.com/sohaib684/Emojify/blob/master/sample.png?raw=true
+![Sample Image](https://github.com/sohaib684/Emojify/blob/master/sample.png?raw=true)
